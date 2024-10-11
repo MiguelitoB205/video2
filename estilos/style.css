@@ -1,0 +1,17 @@
+h1 {
+    color: blue;
+    background-color: rgb(164, 127, 189);
+}
+
+p{
+    color:green;
+    background-color: aqua;
+}
+div{
+    color: red;
+    background-color: fuchsia;
+}
+#presentacion{
+    color: white;
+    background-color: blue;
+}
